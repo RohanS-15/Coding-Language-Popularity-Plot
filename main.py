@@ -35,7 +35,3 @@ plt.xlabel("Languages")
 plt.ylabel("Num of people using the languages(out of 88863 people)")
 plt.title("Amount of people who use programming languages")                  
 plt.show()
-     
-
-
-
