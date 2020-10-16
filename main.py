@@ -27,7 +27,7 @@ for langs in list:
         CsCounter += 1
  
 y = [pythonCounter, javascriptCounter, htmlCounter, CppCounter, CsCounter]
-print(f"Python: {pythonCounter}, JavaScript: {javascriptCounter}, HTML/CSS: {htmlCounter}, C++: {CppCounter}, C#: {CsCounter}")
+print(f"Python: {pythonCounter} users, JavaScript: {javascriptCounter} users, HTML/CSS: {htmlCounter} users, C++: {CppCounter} users, C#: {CsCounter} users")
 plt.bar(x,y, color = "black") 
 
 
