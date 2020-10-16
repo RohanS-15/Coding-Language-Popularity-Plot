@@ -15,7 +15,6 @@ CsCounter = 0
 
 for langs in list:
     if "Python" in langs:
-        
         pythonCounter += 1
     if "JavaScript" in langs:
         javascriptCounter += 1
